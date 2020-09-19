@@ -39,7 +39,7 @@
 <br />
 <br />
 
-[myprojects][https://todo-app-sagarkb.netlify.app/]
+
 
 [website]: https://my-resume-sagarkb.netlify.app/
 [instagram]: https://www.instagram.com/hakunamatatasb/

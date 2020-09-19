@@ -5,7 +5,7 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on a [Tinder Clone][website]!
+- 🔭 I’m currently working on a [My Resume][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -38,6 +38,8 @@
 
 <br />
 <br />
+
+[myprojects][https://todo-app-sagarkb.netlify.app/]
 
 [website]: https://my-resume-sagarkb.netlify.app/
 [instagram]: https://www.instagram.com/hakunamatatasb/

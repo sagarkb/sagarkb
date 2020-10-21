@@ -11,7 +11,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw!
 
-### Gaana Playing 🎧
+### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="my Playing" width="350" />](https://gaana.com/album/waqt-ki-baatein-single)
 
 ### Connect with me:
